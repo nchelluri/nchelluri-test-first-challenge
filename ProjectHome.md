@@ -1,0 +1,3 @@
+Solutions to the testcases of the first three parts to the [Test-First Challenge](http://xp123.com/xplor/xp0201/) ('implement a spreadsheet engine') and a handful of my own.  Neither my implentation nor the spec cover negative numbers, but I think if you added those in this would be a decent start for a spreadsheet application.
+
+I remembered the infix to postfix stuff from an old assignment from school, so I looked up that algorithm right off the bat when it came to the calculation stuff.  Someone mentioned that taking a purely test-first approach might have resulted in a top-down parser instead, which seems kind of cool.
